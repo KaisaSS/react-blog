@@ -60,3 +60,9 @@
   color: #267de0;
   margin-bottom: 8px;
 }
+
+.loader {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+}
