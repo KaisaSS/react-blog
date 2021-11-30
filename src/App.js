@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 //Components
 import Navbar from "./components/Navbar";
@@ -10,7 +10,9 @@ const App = () => {
       <div className="App">
         <Navbar />
         <div className="content">
-          <Home />
+          <Switch>
+            <Route exact path="/" component={Home} />
+          </Switch>
         </div>
       </div>
     </BrowserRouter>
