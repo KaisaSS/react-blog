@@ -75,6 +75,15 @@
   margin: 20px 0;
 }
 
+.blog-details button {
+  background: #267de0;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
 .loader {
   display: flex;
   align-items: center;
