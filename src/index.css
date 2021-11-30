@@ -29,3 +29,9 @@
 .navbar .link:hover {
   color: #267de0;
 }
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
