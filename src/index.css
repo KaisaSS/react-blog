@@ -65,6 +65,16 @@
   text-decoration: none;
 }
 
+.blog-details h2 {
+  font-size: 20px;
+  color: #267de0;
+  margin-bottom: 10px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
 .loader {
   display: flex;
   align-items: center;
