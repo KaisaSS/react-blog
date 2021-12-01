@@ -1,3 +1,15 @@
+![Screenshot 2021-12-01 at 16 49 42](https://user-images.githubusercontent.com/89190304/144277968-68d9bbc6-440c-4f12-9182-9d50e015cbc3.png)
+
+![Screenshot 2021-12-01 at 16 50 30](https://user-images.githubusercontent.com/89190304/144277988-3ab54022-efdb-4c9c-95dd-cb36e12a0704.png)
+
+![Screenshot 2021-12-01 at 16 50 40](https://user-images.githubusercontent.com/89190304/144278002-41c616d8-9318-4b5d-8c82-bfb74cc44131.png)
+
+![Screenshot 2021-12-01 at 16 50 43](https://user-images.githubusercontent.com/89190304/144278009-9720f8a9-f68e-412d-99fa-c9d693d2243a.png)
+
+## To start the server
+
+In the project directory, run `npx json-server --watch data/db.json --port 8000`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
